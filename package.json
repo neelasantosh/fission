@@ -1,0 +1,21 @@
+{
+  "name": "fissionlabs",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "fusioncharts": "^3.12.2",
+    "lodash": "^4.17.10",
+    "nwb": "^0.21.5",
+    "react": "^16.4.0",
+    "react-csv-reader": "^0.3.0",
+    "react-dom": "^16.4.0",
+    "react-fusioncharts": "^1.0.5",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
